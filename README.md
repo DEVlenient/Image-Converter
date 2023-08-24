@@ -12,7 +12,7 @@
 
 ## 範例演示
 
-<img src="pic/image.png" alt="anime" width="400" height="500">
+<img src="pic/image.png" width="400" height="500">
 
 ## 如何使用
 
